@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
