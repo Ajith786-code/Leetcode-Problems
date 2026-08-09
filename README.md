@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
