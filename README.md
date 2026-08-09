@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0015-3sum) |
 | [0877-stone-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Math
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0015-3sum) |
 | [3731-find-missing-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 ## String
 |  |
