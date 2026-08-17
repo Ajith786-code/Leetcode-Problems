@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0645-set-mismatch](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
@@ -42,17 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0645-set-mismatch](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0015-3sum) |
+| [0645-set-mismatch](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
