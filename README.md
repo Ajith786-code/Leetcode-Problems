@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0645-set-mismatch](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
 ## Stack
 |  |
 | ------- |
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
