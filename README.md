@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0015-3sum) |
 | [0645-set-mismatch](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
