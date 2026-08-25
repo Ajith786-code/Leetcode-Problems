@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
