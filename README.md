@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
