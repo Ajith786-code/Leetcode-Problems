@@ -12,6 +12,7 @@ class Solution
             //size matches
             if(tempList.size()==nums.length){
                 resultList.add(new ArrayList<>(tempList));
+                return;
             }
 
             for(int num:nums)
