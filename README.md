@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0189-rotate-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
