@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Design
 |  |
 | ------- |
