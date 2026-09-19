@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -207,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
