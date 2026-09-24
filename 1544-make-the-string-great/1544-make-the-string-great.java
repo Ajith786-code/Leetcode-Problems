@@ -15,3 +15,8 @@ class Solution {
         return sb.toString();
     }
 }
+
+
+/*if(last+32==ch || last-32==ch){
+This condition checks whether last and ch are the same letter in opposite cases (one uppercase and the other lowercase).
+*/
