@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
+| [1544-make-the-string-great](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3340-check-balanced-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
+| [1544-make-the-string-great](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
