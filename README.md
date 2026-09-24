@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3731-find-missing-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3340-check-balanced-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
