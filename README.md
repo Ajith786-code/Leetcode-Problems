@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Greedy
 |  |
 | ------- |
