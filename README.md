@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0645-set-mismatch](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2706-buy-two-chocolates](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0705-design-hashset) |
@@ -278,4 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0796-rotate-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
