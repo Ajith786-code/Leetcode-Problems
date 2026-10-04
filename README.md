@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0509-fibonacci-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0445-add-two-numbers-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1544-make-the-string-great) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
