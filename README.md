@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
