@@ -1,6 +1,6 @@
 class Solution {
     public int minInsertions(String s) {
-        int open=0, ans=0;
+        int open=0, insert=0;
         for(int i=0;i<s.length();i++){
             if(s.charAt(i)=='('){
                 open++;
@@ -8,7 +8,7 @@ class Solution {
             else{
 
                 if(open==0){
-                    ans++;
+                    insert++;
                 }
                 else{
                     open--;
@@ -18,10 +18,10 @@ class Solution {
                     i++;
                 }
                 else{
-                    ans++;
+                    insert++;
                 }
             }
         }
-        return ans+2*open;
+        return insert+2*open;
     }
 }
