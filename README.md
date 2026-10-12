@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0342-power-of-four) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0148-sort-list) |
