@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0260-single-number-iii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
