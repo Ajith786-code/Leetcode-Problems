@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ajith786-code/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
